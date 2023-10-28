@@ -88,3 +88,18 @@
         }
     }
 }
+@media(max-width:1024px)
+{
+    .calculator
+    {
+        width: 80% !important;
+        border:2px solid green;
+    }
+}
+@media(max-width:768px)
+{
+    .calculator
+    {
+        width: 90% !important;
+    }
+}

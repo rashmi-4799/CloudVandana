@@ -124,3 +124,18 @@
         }
     }
 }
+@media(max-width:1025px)
+{
+    #surveyForm
+    {
+        width: 60% !important;
+        border:1px solid green;
+    }
+}
+@media(max-width:768px)
+{
+    #surveyForm
+    {
+        width: 80% !important;
+    }
+}
